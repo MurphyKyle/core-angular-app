@@ -1,6 +1,8 @@
 
 export class ProductModel {
-    productName: string
-    productDetails: string
-    productPrice: number
+    ProductId: number
+    ProductName: string
+    ProductDetails: string
+    ProductPrice: number
+    IsProductAcive: boolean
 }
